@@ -35,6 +35,7 @@ public class day5 {
         toplam += (kabak + kabakKilo);
         toplam += (domates + domatesKilo);
         toplam += (patlican + patlicanKilo);
+        
         System.out.println("Toplam Tutar = "+ toplam + "TL");
 
     }
